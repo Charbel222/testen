@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="org.gnome.Evince.desktop" score="320" last-seen="1664108503"/>
+    <application id="org.gnome.Nautilus.desktop" score="57" last-seen="1664109171"/>
+    <application id="slack_slack.desktop" score="658" last-seen="1664038746"/>
+    <application id="firefox.desktop" score="50" last-seen="1663853910"/>
+    <application id="org.gnome.Terminal.desktop" score="2418" last-seen="1664109177"/>
+    <application id="org.gnome.gedit.desktop" score="0" last-seen="1664037934"/>
+    <application id="snap-store_ubuntu-software-local-file.desktop" score="11" last-seen="1663855146"/>
+    <application id="zoom-client_zoom-client.desktop" score="2510" last-seen="1663941832"/>
+    <application id="gnome-control-center.desktop" score="5" last-seen="1664109074"/>
+    <application id="google-chrome.desktop" score="1379" last-seen="1664108913"/>
+    <application id="update-manager.desktop" score="0" last-seen="1663854136"/>
+    <application id="code.desktop" score="6" last-seen="1663875007"/>
+    <application id="org.gnome.Cheese.desktop" score="87" last-seen="1664106209"/>
+    <application id="rhythmbox.desktop" score="0" last-seen="1664109182"/>
+  </context>
+</application-state>

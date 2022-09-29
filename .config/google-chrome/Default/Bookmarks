@@ -1,0 +1,68 @@
+{
+   "checksum": "4005a88d148155f899ae2f57e574a52f",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13308327297122433",
+            "guid": "2d0fb47b-76ef-46ac-abae-d28f79fb391b",
+            "id": "5",
+            "name": "Posteingang (2.231) - charbel.herrera.21@gmail.com - Gmail",
+            "type": "url",
+            "url": "https://mail.google.com/mail/u/0/#inbox"
+         }, {
+            "date_added": "13308327424637962",
+            "guid": "4c5e365a-77d8-4c31-bb9a-f6858c499471",
+            "id": "6",
+            "name": "E-Mail – Charbel El Herrera – Outlook",
+            "type": "url",
+            "url": "https://outlook.office.com/mail/"
+         }, {
+            "date_added": "13308327499570813",
+            "guid": "7e9c0d6c-a7bc-4e6e-95f8-1e7816f61cfc",
+            "id": "7",
+            "name": "GitHub",
+            "type": "url",
+            "url": "https://github.com/"
+         }, {
+            "date_added": "13308342378975918",
+            "guid": "e35c1bb0-bf44-416b-81d7-7985301601b8",
+            "id": "8",
+            "name": "Google Übersetzer",
+            "type": "url",
+            "url": "https://translate.google.com/?hl=de"
+         }, {
+            "date_added": "13308348584586656",
+            "guid": "09eab356-c4d2-46b1-895f-48fcd0a4a32c",
+            "id": "9",
+            "name": "Google Übersetzer",
+            "type": "url",
+            "url": "https://translate.google.com/?hl=de&sl=de&tl=ar&op=translate"
+         } ],
+         "date_added": "13308326618129599",
+         "date_modified": "13308348584586656",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Lesezeichenleiste",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13308326618129600",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Weitere Lesezeichen",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13308326618129601",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile Lesezeichen",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

@@ -1,0 +1,6 @@
+2022/09/22-19:58:26.935 7b4b Creating DB /home/dci-student/.config/google-chrome/Default/IndexedDB/https_linuxize.com_0.indexeddb.leveldb since it was missing.
+2022/09/22-19:58:26.947 7b4b Reusing MANIFEST /home/dci-student/.config/google-chrome/Default/IndexedDB/https_linuxize.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/09/22-20:00:51.221 7add Level-0 table #5: started
+2022/09/22-20:00:51.225 7add Level-0 table #5: 4506 bytes OK
+2022/09/22-20:00:51.229 7add Delete type=0 #3
+2022/09/22-20:00:51.229 7add Manual compaction at level-0 from (begin) .. (end); will stop at (end)

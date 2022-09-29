@@ -1,0 +1,24 @@
+ZoomLauncher started.
+Zoom path is: /snap/zoom-client/170/zoom
+cmd line: zoommtg://us02web.zoom.us/join?action=join&confno=86481095003&pwd=L3hPNnY0TVFYazY0cTFpbyt0UEtQQT09&confid=dXRpZD1VVElEXzc0NTNiMjZjYjhiNTRlMTM4M2Q3Y2YzNGM1MjgwNDUyJnVzcz1PeENNakFaWEVmdTBaNm5JWTZJWG1Gc1plZEdfbzZaTmt5MFpPQVd1YkR2X1Z5RWVwTDF0SGl4cXBpS3ZMVVFXUXlDdjVGV3Z3Z3lTaVAyS2xRSzBtVnVCQkoxcS5UQmQ5b19kQnVEQ281dnRrJnRpZD1lN2NkMWIwMTlmMjM0ZWUyOGU3ZGE4ZDU2NDgyMjQ5MQ%3D%3D&browser=chrome
+Start subprocess: /snap/zoom-client/170/zoom/zoom sucessfully,  process pid: 3892 
+No PulseAudio daemon running, or not running as session daemon.
+                             Class      App      Lib Possible Culprit Flags
+                resip::Connection      648      648 
+                      resip::Data       36       36 
+                 resip::DnsResult     1080     1080 
+                   resip::Headers        1        1 
+          resip::MsgHeaderScanner       40       40 
+                resip::SipMessage     5208     5208 
+         resip::TransportSelector      864      864 
+                     resip::Tuple      128      128 
+              resip::UdpTransport     1112     1112 
+          resip::GenericIPAddress       28       28 
+
+zoom started.
+Client: Breakpad is using Single Client Mode! client fd = -1
+Zoom is running, send message to it: zoommtg://us02web.zoom.us/join?action=join&confno=86481095003&pwd=L3hPNnY0TVFYazY0cTFpbyt0UEtQQT09&confid=dXRpZD1VVElEXzc0NTNiMjZjYjhiNTRlMTM4M2Q3Y2YzNGM1MjgwNDUyJnVzcz1PeENNakFaWEVmdTBaNm5JWTZJWG1Gc1plZEdfbzZaTmt5MFpPQVd1YkR2X1Z5RWVwTDF0SGl4cXBpS3ZMVVFXUXlDdjVGV3Z3Z3lTaVAyS2xRSzBtVnVCQkoxcS5UQmQ5b19kQnVEQ281dnRrJnRpZD1lN2NkMWIwMTlmMjM0ZWUyOGU3ZGE4ZDU2NDgyMjQ5MQ%3D%3D&browser=chrome
+Exit zoom as another zoom instance is running!
+No PulseAudio daemon running, or not running as session daemon.
+zoom exited normally, exit code is 0 .
+ZoomLauncher exit.

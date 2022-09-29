@@ -1,0 +1,6 @@
+2022/09/22-21:06:55.588 87e1 Creating DB /home/dci-student/.config/google-chrome/Default/IndexedDB/https_github.dev_0.indexeddb.leveldb since it was missing.
+2022/09/22-21:06:55.608 87e1 Reusing MANIFEST /home/dci-student/.config/google-chrome/Default/IndexedDB/https_github.dev_0.indexeddb.leveldb/MANIFEST-000001
+2022/09/22-21:06:59.918 88ad Level-0 table #5: started
+2022/09/22-21:06:59.922 88ad Level-0 table #5: 22934 bytes OK
+2022/09/22-21:06:59.927 88ad Delete type=0 #3
+2022/09/22-21:06:59.927 88ad Manual compaction at level-0 from (begin) .. (end); will stop at (end)

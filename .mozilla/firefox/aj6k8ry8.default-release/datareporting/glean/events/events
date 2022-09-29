@@ -1,0 +1,11 @@
+{"timestamp":870678,"category":"nimbus_events","name":"enrollment","extra":{"experiment":"task-continuity-sync-after-tab-change-rollout-40","branch":"sync-after-tab","experiment_type":"nimbus","enrollment_id":"ca6cd890-5711-4be3-9512-b91303bdb85d"}}
+{"timestamp":870695,"category":"nimbus_events","name":"enrollment","extra":{"branch":"control","experiment":"tcp-rollout-phase-iii-tcp-on-by-default-for-95-existing-release-profiles","experiment_type":"nimbus","enrollment_id":"d9af2a70-90a9-4939-ae0f-f2be47c24026"}}
+{"timestamp":871741,"category":"perf","name":"page_load","extra":{"js_exec_time":"256","response_time":"443","load_type":"NORMAL","fcp_time":"1888","load_time":"1962"}}
+{"timestamp":946702,"category":"perf","name":"page_load","extra":{"js_exec_time":"268","response_time":"459","fcp_time":"899","load_time":"1824","load_type":"STOP"}}
+{"timestamp":1104461,"category":"perf","name":"page_load","extra":{"response_time":"737","load_type":"STOP","fcp_time":"1654","load_time":"1897","js_exec_time":"389"}}
+{"timestamp":1133157,"category":"perf","name":"page_load","extra":{"load_time":"917","response_time":"331","load_type":"STOP","fcp_time":"891","js_exec_time":"105"}}
+{"timestamp":1199056,"category":"perf","name":"page_load","extra":{"fcp_time":"783","response_time":"202","load_time":"1207","js_exec_time":"111","load_type":"NORMAL"}}
+{"timestamp":1206456,"category":"perf","name":"page_load","extra":{"fcp_time":"276","load_type":"STOP","response_time":"180","js_exec_time":"48","load_time":"368"}}
+{"timestamp":1235336,"category":"perf","name":"page_load","extra":{"load_type":"LINK","response_time":"670","fcp_time":"736","js_exec_time":"53","load_time":"858"}}
+{"timestamp":1263123,"category":"perf","name":"page_load","extra":{"fcp_time":"1118","response_time":"1019","js_exec_time":"104","load_time":"1299","load_type":"STOP"}}
+{"timestamp":1279456,"category":"perf","name":"page_load","extra":{"js_exec_time":"77","fcp_time":"674","load_type":"STOP","load_time":"705","response_time":"474"}}
