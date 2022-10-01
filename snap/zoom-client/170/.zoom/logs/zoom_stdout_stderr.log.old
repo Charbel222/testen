@@ -1,7 +1,7 @@
 ZoomLauncher started.
 Zoom path is: /snap/zoom-client/170/zoom
-cmd line: 
-Start subprocess: /snap/zoom-client/170/zoom/zoom sucessfully,  process pid: 3094 
+cmd line: zoommtg://us02web.zoom.us/join?action=join&confno=82493876782&confid=dXRpZD1VVElEX2Y3OWYyNzg5OTgxYjQ0Y2ZhYTIxOTQwNWNmOTI3ZDgwJnVzcz1pcUJTbWViWk9kaDFfc2txQzVZb0R5OUVPYy16aEVialNZNzhMUTdhZ3lBOXd4TVhUMmktREZ1T09DX3RYaHNWckFtbW1XckN0OVM0c3RsdzNzX3hoV2M0OWs1by5ISkdJVjBqQTVJcS1sN0FYJnRpZD1lN2NkMWIwMTlmMjM0ZWUyOGU3ZGE4ZDU2NDgyMjQ5MQ%3D%3D&browser=chrome
+Start subprocess: /snap/zoom-client/170/zoom/zoom sucessfully,  process pid: 5445 
 No PulseAudio daemon running, or not running as session daemon.
                              Class      App      Lib Possible Culprit Flags
                 resip::Connection      648      648 
@@ -33,9 +33,13 @@ Fontconfig error: "/etc/fonts/fonts.conf", line 6: invalid attribute 'selector'
 Fontconfig error: "/etc/fonts/fonts.conf", line 7: invalid attribute 'xmlns:its'
 Fontconfig error: "/etc/fonts/fonts.conf", line 7: invalid attribute 'version'
 Fontconfig warning: "/etc/fonts/fonts.conf", line 9: unknown element "description"
+AppIconMgr::systemDesktopName log Desktop Name: ubuntu 
+Error: Send error, 22 Invalid argument
+Error: Send error, 22 Invalid argument
+Error: Send error, 22 Invalid argument
 qt.scenegraph.general: Using sg animation driver
 qt.scenegraph.general: Animation Driver: using vsync: 16.67 ms
-qt.scenegraph.general: texture atlas dimensions: 1024x512
+qt.scenegraph.general: texture atlas dimensions: 512x512
 qt.scenegraph.general: R/G/B/A Buffers:   8 8 8 8
 qt.scenegraph.general: Depth Buffer:      24
 qt.scenegraph.general: Stencil Buffer:    8
@@ -49,26 +53,17 @@ qt.scenegraph.general: Debug context:    false
 qt.scenegraph.general: Using sg animation driver
 qt.scenegraph.general: Animation Driver: using vsync: 16.67 ms
 qt.scenegraph.general: texture atlas dimensions: 1024x512
-AppIconMgr::systemDesktopName log Desktop Name: ubuntu 
-Error: Send error, 22 Invalid argument
-Error: Send error, 22 Invalid argument
-Error: Send error, 22 Invalid argument
-qt.scenegraph.general: Using sg animation driver
-qt.scenegraph.general: Animation Driver: using vsync: 16.67 ms
-qt.scenegraph.general: texture atlas dimensions: 512x512
-qt.scenegraph.general: Using sg animation driver
-qt.scenegraph.general: Animation Driver: using vsync: 16.67 ms
-qt.scenegraph.general: texture atlas dimensions: 512x512
 qt.scenegraph.general: Using sg animation driver
 qt.scenegraph.general: Animation Driver: using vsync: 16.67 ms
 qt.scenegraph.general: texture atlas dimensions: 1024x512
-Fontconfig warning: "/etc/fonts/fonts.conf", line 5: unknown element "its:rules"
-Fontconfig warning: "/etc/fonts/fonts.conf", line 6: unknown element "its:translateRule"
-Fontconfig error: "/etc/fonts/fonts.conf", line 6: invalid attribute 'translate'
-Fontconfig error: "/etc/fonts/fonts.conf", line 6: invalid attribute 'selector'
-Fontconfig error: "/etc/fonts/fonts.conf", line 7: invalid attribute 'xmlns:its'
-Fontconfig error: "/etc/fonts/fonts.conf", line 7: invalid attribute 'version'
-Fontconfig warning: "/etc/fonts/fonts.conf", line 9: unknown element "description"
+qt.scenegraph.general: Using sg animation driver
+qt.scenegraph.general: Animation Driver: using vsync: 16.67 ms
+qt.scenegraph.general: texture atlas dimensions: 1024x512
+file:///snap/zoom-client/170/zoom/QtQuick/Dialogs/DefaultFileDialog.qml:102:33: QML Settings: Failed to initialize QSettings instance. Status code is: 1
+file:///snap/zoom-client/170/zoom/QtQuick/Dialogs/DefaultFileDialog.qml:102:33: QML Settings: The following application identifiers have not been set: QVector("organizationName", "organizationDomain")
+qt.scenegraph.general: Using sg animation driver
+qt.scenegraph.general: Animation Driver: using vsync: 16.67 ms
+qt.scenegraph.general: texture atlas dimensions: 2048x1024
 file:///snap/zoom-client/170/zoom/QtQuick/Dialogs/DefaultFileDialog.qml:102:33: QML Settings: Failed to initialize QSettings instance. Status code is: 1
 file:///snap/zoom-client/170/zoom/QtQuick/Dialogs/DefaultFileDialog.qml:102:33: QML Settings: The following application identifiers have not been set: QVector("organizationName", "organizationDomain")
 qt.scenegraph.general: Using sg animation driver
@@ -83,6 +78,65 @@ qt.scenegraph.general: animation driver switched to vsync mode
 qt.scenegraph.general: Using sg animation driver
 qt.scenegraph.general: Animation Driver: using vsync: 16.67 ms
 qt.scenegraph.general: texture atlas dimensions: 512x512
+file:///snap/zoom-client/170/zoom/QtQuick/Dialogs/DefaultFileDialog.qml:102:33: QML Settings: Failed to initialize QSettings instance. Status code is: 1
+file:///snap/zoom-client/170/zoom/QtQuick/Dialogs/DefaultFileDialog.qml:102:33: QML Settings: The following application identifiers have not been set: QVector("organizationName", "organizationDomain")
+file:///snap/zoom-client/170/zoom/QtQuick/Dialogs/DefaultFileDialog.qml:102:33: QML Settings: Failed to initialize QSettings instance. Status code is: 1
+file:///snap/zoom-client/170/zoom/QtQuick/Dialogs/DefaultFileDialog.qml:102:33: QML Settings: The following application identifiers have not been set: QVector("organizationName", "organizationDomain")
+Gtk-Message: 09:25:02.079: Failed to load module "canberra-gtk-module"
+Gtk-Message: 09:25:02.081: Failed to load module "canberra-gtk-module"
+qt.scenegraph.general: Using sg animation driver
+qt.scenegraph.general: Animation Driver: using vsync: 16.67 ms
+qt.scenegraph.general: texture atlas dimensions: 512x512
+qrc:/qml/ConfChatDocker.qml:787: TypeError: Cannot read property 'needShowTitle' of undefined
+qrc:/qml/ConfChatDocker.qml:957: TypeError: Type error
+qrc:/qml/ConfChatDocker.qml:787: TypeError: Cannot read property 'needShowTitle' of undefined
+qrc:/qml/ConfChatDocker.qml:957: TypeError: Type error
+qrc:/qml/ConfChatDocker.qml:787: TypeError: Cannot read property 'needShowTitle' of undefined
+qrc:/qml/ConfChatDocker.qml:957: TypeError: Type error
+qrc:/qml/ConfChatDocker.qml:787: TypeError: Type error
+qrc:/qml/ConfChatDocker.qml:957: TypeError: Type error
+qrc:/qml/ConfChatDocker.qml:787: TypeError: Type error
+qrc:/qml/ConfChatDocker.qml:957: TypeError: Type error
+qrc:/qml/ConfChatDocker.qml:787: TypeError: Type error
+qrc:/qml/ConfChatDocker.qml:957: TypeError: Type error
+qrc:/qml/ConfChatDocker.qml:787: TypeError: Type error
+qrc:/qml/ConfChatDocker.qml:957: TypeError: Type error
+qrc:/qml/ConfChatDocker.qml:787: TypeError: Type error
+qrc:/qml/ConfChatDocker.qml:957: TypeError: Type error
+qrc:/qml/ConfChatDocker.qml:787: TypeError: Type error
+qrc:/qml/ConfChatDocker.qml:957: TypeError: Type error
+qrc:/qml/ConfChatDocker.qml:787: TypeError: Type error
+qrc:/qml/ConfChatDocker.qml:957: TypeError: Type error
+qrc:/qml/ConfChatDocker.qml:787: TypeError: Type error
+qrc:/qml/ConfChatDocker.qml:957: TypeError: Type error
+qt.scenegraph.general: Using sg animation driver
+qt.scenegraph.general: Animation Driver: using vsync: 16.67 ms
+qt.scenegraph.general: texture atlas dimensions: 1024x512
+qt.scenegraph.general: Using sg animation driver
+qt.scenegraph.general: Animation Driver: using vsync: 16.67 ms
+qt.scenegraph.general: texture atlas dimensions: 1024x512
+qt.scenegraph.general: Using sg animation driver
+qt.scenegraph.general: Animation Driver: using vsync: 16.67 ms
+qt.scenegraph.general: texture atlas dimensions: 512x512
+qt.scenegraph.general: Using sg animation driver
+qt.scenegraph.general: Animation Driver: using vsync: 16.67 ms
+qt.scenegraph.general: texture atlas dimensions: 512x512
+file:///snap/zoom-client/170/zoom/QtQuick/Dialogs/DefaultFileDialog.qml:102:33: QML Settings: Failed to initialize QSettings instance. Status code is: 1
+file:///snap/zoom-client/170/zoom/QtQuick/Dialogs/DefaultFileDialog.qml:102:33: QML Settings: The following application identifiers have not been set: QVector("organizationName", "organizationDomain")
+qt.scenegraph.general: Using sg animation driver
+qt.scenegraph.general: Animation Driver: using vsync: 16.67 ms
+qt.scenegraph.general: texture atlas dimensions: 2048x1024
+file:///snap/zoom-client/170/zoom/QtQuick/Dialogs/DefaultFileDialog.qml:102:33: QML Settings: Failed to initialize QSettings instance. Status code is: 1
+file:///snap/zoom-client/170/zoom/QtQuick/Dialogs/DefaultFileDialog.qml:102:33: QML Settings: The following application identifiers have not been set: QVector("organizationName", "organizationDomain")
+qt.scenegraph.general: Using sg animation driver
+qt.scenegraph.general: Animation Driver: using vsync: 16.67 ms
+qt.scenegraph.general: texture atlas dimensions: 2048x1024
+qt.scenegraph.general: animation driver switched to timer mode
+qt.scenegraph.general: Using sg animation driver
+qt.scenegraph.general: Animation Driver: using vsync: 16.67 ms
+qt.scenegraph.general: texture atlas dimensions: 1024x512
+qt.scenegraph.general: Using sg animation driver
+qt.scenegraph.general: animation driver switched to vsync mode
 qt.scenegraph.general: Using sg animation driver
 qt.scenegraph.general: Animation Driver: using vsync: 16.67 ms
 qt.scenegraph.general: texture atlas dimensions: 1024x512
@@ -106,6 +160,48 @@ file:///snap/zoom-client/170/zoom/QtQuick/Dialogs/DefaultFileDialog.qml:102:33: 
 qt.scenegraph.general: Using sg animation driver
 qt.scenegraph.general: Animation Driver: using vsync: 16.67 ms
 qt.scenegraph.general: texture atlas dimensions: 2048x1024
+file:///snap/zoom-client/170/zoom/QtQuick/Dialogs/DefaultFileDialog.qml:102:33: QML Settings: Failed to initialize QSettings instance. Status code is: 1
+file:///snap/zoom-client/170/zoom/QtQuick/Dialogs/DefaultFileDialog.qml:102:33: QML Settings: The following application identifiers have not been set: QVector("organizationName", "organizationDomain")
+qt.scenegraph.general: Using sg animation driver
+qt.scenegraph.general: Animation Driver: using vsync: 16.67 ms
+qt.scenegraph.general: texture atlas dimensions: 2048x1024
+qrc:/qml/BOAttendee.qml:220: ReferenceError: QMLDefine is not defined
+qt.scenegraph.general: Using sg animation driver
+qt.scenegraph.general: Animation Driver: using vsync: 16.67 ms
+qt.scenegraph.general: texture atlas dimensions: 1024x512
+file:///snap/zoom-client/170/zoom/QtQuick/Dialogs/DefaultFileDialog.qml:102:33: QML Settings: Failed to initialize QSettings instance. Status code is: 1
+file:///snap/zoom-client/170/zoom/QtQuick/Dialogs/DefaultFileDialog.qml:102:33: QML Settings: The following application identifiers have not been set: QVector("organizationName", "organizationDomain")
+qt.scenegraph.general: Using sg animation driver
+qt.scenegraph.general: Animation Driver: using vsync: 16.67 ms
+qt.scenegraph.general: texture atlas dimensions: 2048x1024
+qrc:/qml/VideoItem.qml:50:13: QML Image: Cannot open: qrc:/qml/❌
+file:///snap/zoom-client/170/zoom/QtQuick/Dialogs/DefaultFileDialog.qml:102:33: QML Settings: Failed to initialize QSettings instance. Status code is: 1
+file:///snap/zoom-client/170/zoom/QtQuick/Dialogs/DefaultFileDialog.qml:102:33: QML Settings: The following application identifiers have not been set: QVector("organizationName", "organizationDomain")
+file:///snap/zoom-client/170/zoom/QtQuick/Dialogs/DefaultFileDialog.qml:102:33: QML Settings: Failed to initialize QSettings instance. Status code is: 1
+file:///snap/zoom-client/170/zoom/QtQuick/Dialogs/DefaultFileDialog.qml:102:33: QML Settings: The following application identifiers have not been set: QVector("organizationName", "organizationDomain")
+file:///snap/zoom-client/170/zoom/QtQuick/Dialogs/DefaultFileDialog.qml:102:33: QML Settings: Failed to initialize QSettings instance. Status code is: 1
+file:///snap/zoom-client/170/zoom/QtQuick/Dialogs/DefaultFileDialog.qml:102:33: QML Settings: The following application identifiers have not been set: QVector("organizationName", "organizationDomain")
+file:///snap/zoom-client/170/zoom/QtQuick/Dialogs/DefaultFileDialog.qml:102:33: QML Settings: Failed to initialize QSettings instance. Status code is: 1
+file:///snap/zoom-client/170/zoom/QtQuick/Dialogs/DefaultFileDialog.qml:102:33: QML Settings: The following application identifiers have not been set: QVector("organizationName", "organizationDomain")
+qt.scenegraph.general: Using sg animation driver
+qt.scenegraph.general: Animation Driver: using vsync: 16.67 ms
+qt.scenegraph.general: texture atlas dimensions: 1024x512
+Gtk-Message: 13:25:37.605: Failed to load module "canberra-gtk-module"
+Gtk-Message: 13:25:37.605: Failed to load module "canberra-gtk-module"
+file:///snap/zoom-client/170/zoom/QtQuick/Dialogs/DefaultFileDialog.qml:102:33: QML Settings: Failed to initialize QSettings instance. Status code is: 1
+file:///snap/zoom-client/170/zoom/QtQuick/Dialogs/DefaultFileDialog.qml:102:33: QML Settings: The following application identifiers have not been set: QVector("organizationName", "organizationDomain")
+file:///snap/zoom-client/170/zoom/QtQuick/Dialogs/DefaultFileDialog.qml:102:33: QML Settings: Failed to initialize QSettings instance. Status code is: 1
+file:///snap/zoom-client/170/zoom/QtQuick/Dialogs/DefaultFileDialog.qml:102:33: QML Settings: The following application identifiers have not been set: QVector("organizationName", "organizationDomain")
+file:///snap/zoom-client/170/zoom/QtQuick/Dialogs/DefaultFileDialog.qml:102:33: QML Settings: Failed to initialize QSettings instance. Status code is: 1
+file:///snap/zoom-client/170/zoom/QtQuick/Dialogs/DefaultFileDialog.qml:102:33: QML Settings: The following application identifiers have not been set: QVector("organizationName", "organizationDomain")
+file:///snap/zoom-client/170/zoom/QtQuick/Dialogs/DefaultFileDialog.qml:102:33: QML Settings: Failed to initialize QSettings instance. Status code is: 1
+file:///snap/zoom-client/170/zoom/QtQuick/Dialogs/DefaultFileDialog.qml:102:33: QML Settings: The following application identifiers have not been set: QVector("organizationName", "organizationDomain")
+Gtk-Message: 13:27:55.862: Failed to load module "canberra-gtk-module"
+Gtk-Message: 13:27:55.862: Failed to load module "canberra-gtk-module"
+file:///snap/zoom-client/170/zoom/QtQuick/Dialogs/DefaultFileDialog.qml:102:33: QML Settings: Failed to initialize QSettings instance. Status code is: 1
+file:///snap/zoom-client/170/zoom/QtQuick/Dialogs/DefaultFileDialog.qml:102:33: QML Settings: The following application identifiers have not been set: QVector("organizationName", "organizationDomain")
+file:///snap/zoom-client/170/zoom/QtQuick/Dialogs/DefaultFileDialog.qml:102:33: QML Settings: Failed to initialize QSettings instance. Status code is: 1
+file:///snap/zoom-client/170/zoom/QtQuick/Dialogs/DefaultFileDialog.qml:102:33: QML Settings: The following application identifiers have not been set: QVector("organizationName", "organizationDomain")
 qt.scenegraph.general: Using sg animation driver
 qt.scenegraph.general: Animation Driver: using vsync: 16.67 ms
 qt.scenegraph.general: texture atlas dimensions: 512x512
@@ -128,44 +224,11 @@ file:///snap/zoom-client/170/zoom/QtQuick/Dialogs/DefaultFileDialog.qml:102:33: 
 qt.scenegraph.general: Using sg animation driver
 qt.scenegraph.general: Animation Driver: using vsync: 16.67 ms
 qt.scenegraph.general: texture atlas dimensions: 2048x1024
-qrc:/qml/BOAttendee.qml:220: ReferenceError: QMLDefine is not defined
-qt.scenegraph.general: Using sg animation driver
-qt.scenegraph.general: Animation Driver: using vsync: 16.67 ms
-qt.scenegraph.general: texture atlas dimensions: 1024x512
 file:///snap/zoom-client/170/zoom/QtQuick/Dialogs/DefaultFileDialog.qml:102:33: QML Settings: Failed to initialize QSettings instance. Status code is: 1
 file:///snap/zoom-client/170/zoom/QtQuick/Dialogs/DefaultFileDialog.qml:102:33: QML Settings: The following application identifiers have not been set: QVector("organizationName", "organizationDomain")
 qt.scenegraph.general: Using sg animation driver
 qt.scenegraph.general: Animation Driver: using vsync: 16.67 ms
 qt.scenegraph.general: texture atlas dimensions: 2048x1024
-file:///snap/zoom-client/170/zoom/QtQuick/Dialogs/DefaultFileDialog.qml:102:33: QML Settings: Failed to initialize QSettings instance. Status code is: 1
-file:///snap/zoom-client/170/zoom/QtQuick/Dialogs/DefaultFileDialog.qml:102:33: QML Settings: The following application identifiers have not been set: QVector("organizationName", "organizationDomain")
-qt.scenegraph.general: Using sg animation driver
-qt.scenegraph.general: Animation Driver: using vsync: 16.67 ms
-qt.scenegraph.general: texture atlas dimensions: 2048x1024
-qrc:/qml/BOAttendee.qml: ReferenceError: QMLDefine is not defined
-qt.scenegraph.general: Using sg animation driver
-qt.scenegraph.general: Animation Driver: using vsync: 16.67 ms
-qt.scenegraph.general: texture atlas dimensions: 1024x512
-file:///snap/zoom-client/170/zoom/QtQuick/Dialogs/DefaultFileDialog.qml:102:33: QML Settings: Failed to initialize QSettings instance. Status code is: 1
-file:///snap/zoom-client/170/zoom/QtQuick/Dialogs/DefaultFileDialog.qml:102:33: QML Settings: The following application identifiers have not been set: QVector("organizationName", "organizationDomain")
-qt.scenegraph.general: Using sg animation driver
-qt.scenegraph.general: Animation Driver: using vsync: 16.67 ms
-qt.scenegraph.general: texture atlas dimensions: 2048x1024
-file:///snap/zoom-client/170/zoom/QtQuick/Dialogs/DefaultFileDialog.qml:102:33: QML Settings: Failed to initialize QSettings instance. Status code is: 1
-file:///snap/zoom-client/170/zoom/QtQuick/Dialogs/DefaultFileDialog.qml:102:33: QML Settings: The following application identifiers have not been set: QVector("organizationName", "organizationDomain")
-file:///snap/zoom-client/170/zoom/QtQuick/Dialogs/DefaultFileDialog.qml:102:33: QML Settings: Failed to initialize QSettings instance. Status code is: 1
-file:///snap/zoom-client/170/zoom/QtQuick/Dialogs/DefaultFileDialog.qml:102:33: QML Settings: The following application identifiers have not been set: QVector("organizationName", "organizationDomain")
-qt.scenegraph.general: Using sg animation driver
-qt.scenegraph.general: Animation Driver: using vsync: 16.67 ms
-qt.scenegraph.general: texture atlas dimensions: 512x512
-file:///snap/zoom-client/170/zoom/QtQuick/Dialogs/DefaultFileDialog.qml:102:33: QML Settings: Failed to initialize QSettings instance. Status code is: 1
-file:///snap/zoom-client/170/zoom/QtQuick/Dialogs/DefaultFileDialog.qml:102:33: QML Settings: The following application identifiers have not been set: QVector("organizationName", "organizationDomain")
-qt.scenegraph.general: Using sg animation driver
-qt.scenegraph.general: Animation Driver: using vsync: 16.67 ms
-qt.scenegraph.general: texture atlas dimensions: 2048x1024
-qt.scenegraph.general: Using sg animation driver
-qt.scenegraph.general: Animation Driver: using vsync: 16.67 ms
-qt.scenegraph.general: texture atlas dimensions: 512x512
 qrc:/qml/BOAttendee.qml: ReferenceError: QMLDefine is not defined
 qt.scenegraph.general: Using sg animation driver
 qt.scenegraph.general: Animation Driver: using vsync: 16.67 ms
@@ -189,29 +252,9 @@ file:///snap/zoom-client/170/zoom/QtQuick/Dialogs/DefaultFileDialog.qml:102:33: 
 qt.scenegraph.general: Using sg animation driver
 qt.scenegraph.general: Animation Driver: using vsync: 16.67 ms
 qt.scenegraph.general: texture atlas dimensions: 2048x1024
-file:///snap/zoom-client/170/zoom/QtQuick/Dialogs/DefaultFileDialog.qml:102:33: QML Settings: Failed to initialize QSettings instance. Status code is: 1
-file:///snap/zoom-client/170/zoom/QtQuick/Dialogs/DefaultFileDialog.qml:102:33: QML Settings: The following application identifiers have not been set: QVector("organizationName", "organizationDomain")
-file:///snap/zoom-client/170/zoom/QtQuick/Dialogs/DefaultFileDialog.qml:102:33: QML Settings: Failed to initialize QSettings instance. Status code is: 1
-file:///snap/zoom-client/170/zoom/QtQuick/Dialogs/DefaultFileDialog.qml:102:33: QML Settings: The following application identifiers have not been set: QVector("organizationName", "organizationDomain")
-Gtk-Message: 15:41:07.020: Failed to load module "canberra-gtk-module"
-Gtk-Message: 15:41:07.021: Failed to load module "canberra-gtk-module"
-file:///snap/zoom-client/170/zoom/QtQuick/Dialogs/DefaultFileDialog.qml:102:33: QML Settings: Failed to initialize QSettings instance. Status code is: 1
-file:///snap/zoom-client/170/zoom/QtQuick/Dialogs/DefaultFileDialog.qml:102:33: QML Settings: The following application identifiers have not been set: QVector("organizationName", "organizationDomain")
-file:///snap/zoom-client/170/zoom/QtQuick/Dialogs/DefaultFileDialog.qml:102:33: QML Settings: Failed to initialize QSettings instance. Status code is: 1
-file:///snap/zoom-client/170/zoom/QtQuick/Dialogs/DefaultFileDialog.qml:102:33: QML Settings: The following application identifiers have not been set: QVector("organizationName", "organizationDomain")
-file:///snap/zoom-client/170/zoom/QtQuick/Dialogs/DefaultFileDialog.qml:102:33: QML Settings: Failed to initialize QSettings instance. Status code is: 1
-file:///snap/zoom-client/170/zoom/QtQuick/Dialogs/DefaultFileDialog.qml:102:33: QML Settings: The following application identifiers have not been set: QVector("organizationName", "organizationDomain")
-file:///snap/zoom-client/170/zoom/QtQuick/Dialogs/DefaultFileDialog.qml:102:33: QML Settings: Failed to initialize QSettings instance. Status code is: 1
-file:///snap/zoom-client/170/zoom/QtQuick/Dialogs/DefaultFileDialog.qml:102:33: QML Settings: The following application identifiers have not been set: QVector("organizationName", "organizationDomain")
 qt.scenegraph.general: Using sg animation driver
 qt.scenegraph.general: Animation Driver: using vsync: 16.67 ms
-qt.scenegraph.general: texture atlas dimensions: 512x512
-qt.scenegraph.general: Using sg animation driver
-qt.scenegraph.general: Animation Driver: using vsync: 16.67 ms
-qt.scenegraph.general: texture atlas dimensions: 512x512
-qt.scenegraph.general: Using sg animation driver
-qt.scenegraph.general: Animation Driver: using vsync: 16.67 ms
-qt.scenegraph.general: texture atlas dimensions: 512x512
+qt.scenegraph.general: texture atlas dimensions: 1024x512
 QCoreApplication::postEvent: Unexpected null receiver
 QCoreApplication::postEvent: Unexpected null receiver
 QCoreApplication::postEvent: Unexpected null receiver

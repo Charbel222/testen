@@ -1,3 +1,3 @@
-2022/09/22-18:44:38.117 6b90 Reusing MANIFEST /home/dci-student/.config/Code/Local Storage/leveldb/MANIFEST-000001
-2022/09/22-18:44:38.117 6b90 Recovering log #3
-2022/09/22-18:44:38.117 6b90 Reusing old log /home/dci-student/.config/Code/Local Storage/leveldb/000003.log 
+2022/10/01-15:27:41.562 107d Reusing MANIFEST /home/dci-student/.config/Code/Local Storage/leveldb/MANIFEST-000001
+2022/10/01-15:27:41.563 107d Recovering log #3
+2022/10/01-15:27:41.563 107d Reusing old log /home/dci-student/.config/Code/Local Storage/leveldb/000003.log 

@@ -32,3 +32,23 @@
 [3078:0924/184845.877105:ERROR:browser_main_loop.cc(270)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
 [3078:0924/184847.380597:ERROR:browser_main_loop.cc(270)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
 [3078:0924/184847.381140:ERROR:browser_main_loop.cc(270)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[9133:0925/161925.379957:WARNING:bluez_dbus_manager.cc(247)] Floss manager not present, cannot set Floss enable/disable.
+[9133:0925/161925.580719:ERROR:browser_main_loop.cc(270)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[9133:0925/161925.581381:ERROR:browser_main_loop.cc(270)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[9133:0925/161925.593702:ERROR:nss_util.cc(232)] Error initializing NSS with a persistent database (sql:/home/dci-student/.pki/nssdb): NSS error code: -8174
+[9133:0925/161925.643757:ERROR:object_proxy.cc(623)] Failed to call method: org.freedesktop.login1.Manager.Inhibit: object_path= /org/freedesktop/login1: org.freedesktop.DBus.Error.AccessDenied: An AppArmor policy prevents this sender from sending this message to this recipient; type="method_call", sender=":1.253" (uid=1000 pid=9133 comm="/snap/slack/65/usr/lib/slack/slack --no-sandbox --" label="snap.slack.slack (enforce)") interface="org.freedesktop.login1.Manager" member="Inhibit" error name="(unset)" requested_reply="0" destination="org.freedesktop.login1" (uid=0 pid=759 comm="/lib/systemd/systemd-logind " label="unconfined")
+[9133:0925/161928.718426:ERROR:browser_main_loop.cc(270)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[9133:0925/161928.790114:ERROR:browser_main_loop.cc(270)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[9133:0925/161928.791024:ERROR:browser_main_loop.cc(270)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[9133:0925/161930.176699:ERROR:browser_main_loop.cc(270)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[9133:0925/161930.177422:ERROR:browser_main_loop.cc(270)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[3872:0926/085251.224209:WARNING:bluez_dbus_manager.cc(247)] Floss manager not present, cannot set Floss enable/disable.
+[3872:0926/085251.362654:ERROR:nss_util.cc(232)] Error initializing NSS with a persistent database (sql:/home/dci-student/.pki/nssdb): NSS error code: -8174
+[3872:0926/085251.451440:ERROR:browser_main_loop.cc(270)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[3872:0926/085251.452079:ERROR:browser_main_loop.cc(270)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[3872:0926/085251.506729:ERROR:object_proxy.cc(623)] Failed to call method: org.freedesktop.login1.Manager.Inhibit: object_path= /org/freedesktop/login1: org.freedesktop.DBus.Error.AccessDenied: An AppArmor policy prevents this sender from sending this message to this recipient; type="method_call", sender=":1.176" (uid=1000 pid=3872 comm="/snap/slack/65/usr/lib/slack/slack --no-sandbox --" label="snap.slack.slack (enforce)") interface="org.freedesktop.login1.Manager" member="Inhibit" error name="(unset)" requested_reply="0" destination="org.freedesktop.login1" (uid=0 pid=749 comm="/lib/systemd/systemd-logind " label="unconfined")
+[3872:0926/085254.615859:ERROR:browser_main_loop.cc(270)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[3872:0926/085254.684957:ERROR:browser_main_loop.cc(270)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[3872:0926/085254.685660:ERROR:browser_main_loop.cc(270)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[3872:0926/085256.192624:ERROR:browser_main_loop.cc(270)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[3872:0926/085256.193142:ERROR:browser_main_loop.cc(270)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed

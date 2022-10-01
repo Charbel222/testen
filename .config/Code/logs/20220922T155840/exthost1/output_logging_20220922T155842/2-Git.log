@@ -1,5 +1,0 @@
-[2022-09-22T13:58:42.639Z] Protokolliergrad: Info
-[2022-09-22T13:58:42.643Z] [info] Gefundenes Git wurde überprüft in: git
-[2022-09-22T13:58:42.662Z] [info] Verwenden von Git 2.25.1 von git
-[2022-09-22T13:59:28.057Z] > git rev-parse --show-toplevel [5ms]
-[2022-09-22T13:59:28.058Z] fatal: not a git repository (or any of the parent directories): .git

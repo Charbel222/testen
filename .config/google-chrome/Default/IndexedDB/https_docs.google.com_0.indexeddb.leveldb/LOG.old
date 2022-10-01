@@ -1,6 +1,15 @@
-2022/09/22-18:55:15.051 6214 Creating DB /home/dci-student/.config/google-chrome/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb since it was missing.
-2022/09/22-18:55:15.060 6214 Reusing MANIFEST /home/dci-student/.config/google-chrome/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/09/22-18:57:25.860 7293 Level-0 table #5: started
-2022/09/22-18:57:25.864 7293 Level-0 table #5: 8319 bytes OK
-2022/09/22-18:57:25.868 7293 Delete type=0 #3
-2022/09/22-18:57:25.869 7293 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/09/29-13:10:57.759 9416 Reusing MANIFEST /home/dci-student/.config/google-chrome/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/09/29-13:10:57.759 9416 Recovering log #4
+2022/09/29-13:10:57.759 9416 Reusing old log /home/dci-student/.config/google-chrome/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/000004.log 
+2022/09/29-13:14:00.884 93ee Level-0 table #8: started
+2022/09/29-13:14:00.888 93ee Level-0 table #8: 209 bytes OK
+2022/09/29-13:14:00.892 93ee Delete type=0 #4
+2022/09/29-13:14:00.892 93ee Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/09/29-13:14:00.892 93ee Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x06' @ 679 : 1
+2022/09/29-13:14:00.892 93ee Compacting 1@1 + 1@2 files
+2022/09/29-13:14:00.895 93ee Generated table #9@1: 206 keys, 3129 bytes
+2022/09/29-13:14:00.895 93ee Compacted 1@1 + 1@2 files => 3129 bytes
+2022/09/29-13:14:00.899 93ee compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/09/29-13:14:00.899 93ee Delete type=2 #5
+2022/09/29-13:14:00.899 93ee Delete type=2 #8
+2022/09/29-13:14:00.899 93ee Manual compaction at level-1 from '\x00\x00\x00\x00\x06' @ 679 : 1 .. (end); will stop at (end)

@@ -1,9 +1,10 @@
 {
-   "checksum": "4005a88d148155f899ae2f57e574a52f",
+   "checksum": "486e6fb808b309c8946496f88bb89cb7",
    "roots": {
       "bookmark_bar": {
          "children": [ {
             "date_added": "13308327297122433",
+            "date_last_used": "13308914171723287",
             "guid": "2d0fb47b-76ef-46ac-abae-d28f79fb391b",
             "id": "5",
             "name": "Posteingang (2.231) - charbel.herrera.21@gmail.com - Gmail",
@@ -11,6 +12,7 @@
             "url": "https://mail.google.com/mail/u/0/#inbox"
          }, {
             "date_added": "13308327424637962",
+            "date_last_used": "13309061345827432",
             "guid": "4c5e365a-77d8-4c31-bb9a-f6858c499471",
             "id": "6",
             "name": "E-Mail – Charbel El Herrera – Outlook",
@@ -18,6 +20,7 @@
             "url": "https://outlook.office.com/mail/"
          }, {
             "date_added": "13308327499570813",
+            "date_last_used": "13309104485878993",
             "guid": "7e9c0d6c-a7bc-4e6e-95f8-1e7816f61cfc",
             "id": "7",
             "name": "GitHub",
@@ -25,6 +28,7 @@
             "url": "https://github.com/"
          }, {
             "date_added": "13308342378975918",
+            "date_last_used": "0",
             "guid": "e35c1bb0-bf44-416b-81d7-7985301601b8",
             "id": "8",
             "name": "Google Übersetzer",
@@ -32,14 +36,56 @@
             "url": "https://translate.google.com/?hl=de"
          }, {
             "date_added": "13308348584586656",
+            "date_last_used": "13308911534795645",
             "guid": "09eab356-c4d2-46b1-895f-48fcd0a4a32c",
             "id": "9",
             "name": "Google Übersetzer",
             "type": "url",
             "url": "https://translate.google.com/?hl=de&sl=de&tl=ar&op=translate"
+         }, {
+            "date_added": "13308738742326733",
+            "date_last_used": "0",
+            "guid": "149a98e4-c9eb-494d-bbf6-5c6fd313165f",
+            "id": "11",
+            "name": "Frontend Mentor | Challenges",
+            "type": "url",
+            "url": "https://www.frontendmentor.io/challenges"
+         }, {
+            "date_added": "13308757215911514",
+            "date_last_used": "0",
+            "guid": "aabfbe55-aead-4c3e-9a80-2779161ef431",
+            "id": "12",
+            "name": "npm",
+            "type": "url",
+            "url": "https://www.npmjs.com/"
+         }, {
+            "date_added": "13308822208438586",
+            "date_last_used": "0",
+            "guid": "9f832590-71eb-47bc-ae76-a06f5a701d95",
+            "id": "14",
+            "name": "npm cheatsheet",
+            "type": "url",
+            "url": "https://devhints.io/npm"
+         }, {
+            "date_added": "13308836986174093",
+            "date_last_used": "0",
+            "guid": "4bb40fe7-2127-458e-b292-47366ad37c23",
+            "id": "15",
+            "name": "GitHub Git Spickzettel - GitHub Cheatsheets",
+            "type": "url",
+            "url": "https://training.github.com/downloads/de/github-git-cheat-sheet/"
+         }, {
+            "date_added": "13308925492701851",
+            "date_last_used": "0",
+            "guid": "6a5c1830-bea0-4667-8bf1-5b857f699954",
+            "id": "17",
+            "name": "Excalidraw",
+            "type": "url",
+            "url": "https://excalidraw.com/"
          } ],
          "date_added": "13308326618129599",
-         "date_modified": "13308348584586656",
+         "date_last_used": "0",
+         "date_modified": "13308925492701851",
          "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
          "id": "1",
          "name": "Lesezeichenleiste",
@@ -48,6 +94,7 @@
       "other": {
          "children": [  ],
          "date_added": "13308326618129600",
+         "date_last_used": "0",
          "date_modified": "0",
          "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
          "id": "2",
@@ -57,6 +104,7 @@
       "synced": {
          "children": [  ],
          "date_added": "13308326618129601",
+         "date_last_used": "0",
          "date_modified": "0",
          "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
          "id": "3",

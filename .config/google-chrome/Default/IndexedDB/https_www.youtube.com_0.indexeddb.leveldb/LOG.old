@@ -1,2 +1,21 @@
-2022/09/22-15:45:20.304 2bca Creating DB /home/dci-student/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb since it was missing.
-2022/09/22-15:45:20.313 2bca Reusing MANIFEST /home/dci-student/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/09/30-08:41:01.525 d5d Reusing MANIFEST /home/dci-student/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/09/30-08:41:01.525 d5d Recovering log #93
+2022/09/30-08:41:01.535 d5d Reusing old log /home/dci-student/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000093.log 
+2022/09/30-08:41:22.976 d60 Level-0 table #98: started
+2022/09/30-08:41:22.987 d60 Level-0 table #98: 1010821 bytes OK
+2022/09/30-08:41:22.991 d60 Delete type=0 #93
+2022/09/30-08:42:32.999 d64 Compacting 1@1 + 1@2 files
+2022/09/30-08:42:33.012 d64 Generated table #99@1: 431 keys, 30080 bytes
+2022/09/30-08:42:33.012 d64 Compacted 1@1 + 1@2 files => 30080 bytes
+2022/09/30-08:42:33.016 d64 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/09/30-08:42:33.017 d64 Delete type=2 #98
+2022/09/30-08:42:33.017 d64 Delete type=2 #95
+2022/09/30-10:06:45.917 1d39 Level-0 table #101: started
+2022/09/30-10:06:45.937 1d39 Level-0 table #101: 928033 bytes OK
+2022/09/30-10:06:45.942 1d39 Delete type=0 #97
+2022/09/30-10:20:44.543 1c13 Compacting 1@1 + 1@2 files
+2022/09/30-10:20:44.560 1c13 Generated table #102@1: 719 keys, 44570 bytes
+2022/09/30-10:20:44.560 1c13 Compacted 1@1 + 1@2 files => 44570 bytes
+2022/09/30-10:20:44.564 1c13 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/09/30-10:20:44.564 1c13 Delete type=2 #101
+2022/09/30-10:20:44.564 1c13 Delete type=2 #99

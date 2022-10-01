@@ -1,6 +1,24 @@
-2022/09/24-18:48:42.182 c0e Reusing MANIFEST /home/dci-student/snap/slack/65/.config/Slack/Local Storage/leveldb/MANIFEST-000001
-2022/09/24-18:48:42.183 c0e Recovering log #11
-2022/09/24-18:48:42.183 c0e Reusing old log /home/dci-student/snap/slack/65/.config/Slack/Local Storage/leveldb/000011.log 
-2022/09/24-18:58:42.774 121f Level-0 table #15: started
-2022/09/24-18:58:42.787 121f Level-0 table #15: 14256 bytes OK
-2022/09/24-18:58:42.795 121f Delete type=0 #11
+2022/09/26-08:52:50.999 f26 Reusing MANIFEST /home/dci-student/snap/slack/65/.config/Slack/Local Storage/leveldb/MANIFEST-000001
+2022/09/26-08:52:51.000 f26 Recovering log #14
+2022/09/26-08:52:51.000 f26 Reusing old log /home/dci-student/snap/slack/65/.config/Slack/Local Storage/leveldb/000014.log 
+2022/09/26-08:58:51.637 f27 Level-0 table #18: started
+2022/09/26-08:58:51.647 f27 Level-0 table #18: 12305 bytes OK
+2022/09/26-08:58:51.651 f27 Delete type=0 #14
+2022/09/26-08:58:51.652 f27 Compacting 4@0 + 1@1 files
+2022/09/26-08:58:51.656 f27 Generated table #19@0: 10 keys, 3460 bytes
+2022/09/26-08:58:51.656 f27 Compacted 4@0 + 1@1 files => 3460 bytes
+2022/09/26-08:58:51.659 f27 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/09/26-08:58:51.659 f27 Delete type=2 #18
+2022/09/26-08:58:51.659 f27 Delete type=2 #7
+2022/09/26-08:58:51.659 f27 Delete type=2 #12
+2022/09/26-08:58:51.659 f27 Delete type=2 #10
+2022/09/26-08:58:51.659 f27 Delete type=2 #15
+2022/09/26-09:12:51.633 182e Level-0 table #21: started
+2022/09/26-09:12:51.645 182e Level-0 table #21: 16183 bytes OK
+2022/09/26-09:12:51.651 182e Delete type=0 #17
+2022/09/26-13:31:51.658 273b Level-0 table #23: started
+2022/09/26-13:31:51.669 273b Level-0 table #23: 10821 bytes OK
+2022/09/26-13:31:51.674 273b Delete type=0 #20
+2022/09/26-17:10:51.660 7a0f Level-0 table #25: started
+2022/09/26-17:10:51.671 7a0f Level-0 table #25: 10523 bytes OK
+2022/09/26-17:10:51.676 7a0f Delete type=0 #22

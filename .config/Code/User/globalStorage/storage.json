@@ -45,6 +45,132 @@
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/dci-student/Schreibtisch/github-testen",
+                                        "path": "/home/dci-student/Schreibtisch/github-testen",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Schreibtisch/github-testen"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/dci-student/Schreibtisch/new",
+                                        "path": "/home/dci-student/Schreibtisch/new",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Schreibtisch/new"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/dci-student/Schreibtisch/push",
+                                        "path": "/home/dci-student/Schreibtisch/push",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Schreibtisch/push"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/dci-student/Schreibtisch/charbe",
+                                        "path": "/home/dci-student/Schreibtisch/charbe",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Schreibtisch/charbe"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/dci-student/Schreibtisch/testen",
+                                        "path": "/home/dci-student/Schreibtisch/testen",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Schreibtisch/testen"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/dci-student/Schreibtisch/clone",
+                                        "path": "/home/dci-student/Schreibtisch/clone",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Schreibtisch/clone"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/dci-student/Schreibtisch/selbst-%C3%BCben",
+                                        "path": "/home/dci-student/Schreibtisch/selbst-üben",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Schreibtisch/selbst-üben"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/dci-student/Schreibtisch/l%C3%B6sung-branch-out",
+                                        "path": "/home/dci-student/Schreibtisch/lösung-branch-out",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Schreibtisch/lösung-branch-out"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/dci-student/Schreibtisch/branch-out",
+                                        "path": "/home/dci-student/Schreibtisch/branch-out",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Schreibtisch/branch-out"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/dci-student/Schreibtisch",
+                                        "path": "/home/dci-student/Schreibtisch",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Schreibtisch"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "path": "/home/dci-student/Schreibtisch/Montag/erst.txt",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Schreibtisch/Montag/erst.txt"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
+                                {
                                     "id": "workbench.action.openRecent",
                                     "label": "&&Mehr..."
                                 },
@@ -86,8 +212,7 @@
                     },
                     {
                         "id": "saveAll",
-                        "label": "A&&lles speichern",
-                        "enabled": false
+                        "label": "A&&lles speichern"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -170,6 +295,10 @@
                     {
                         "id": "workbench.action.closeActiveEditor",
                         "label": "Editor s&&chließen"
+                    },
+                    {
+                        "id": "workbench.action.closeFolder",
+                        "label": "&&Ordner schließen"
                     },
                     {
                         "id": "workbench.action.closeWindow",
@@ -384,7 +513,8 @@
                                 },
                                 {
                                     "id": "workbench.action.togglePanel",
-                                    "label": "&&Panel"
+                                    "label": "&&Panel",
+                                    "checked": true
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -577,8 +707,7 @@
                     },
                     {
                         "id": "editor.action.toggleWordWrap",
-                        "label": "&&Zeilenumbruch",
-                        "enabled": false
+                        "label": "&&Zeilenumbruch"
                     },
                     {
                         "id": "editor.action.toggleMinimap",
@@ -620,8 +749,7 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Position der letzten Bearbeitung",
-                        "enabled": false
+                        "label": "&&Position der letzten Bearbeitung"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -933,8 +1061,7 @@
                     },
                     {
                         "id": "workbench.action.terminal.split",
-                        "label": "&&Geteiltes Terminal",
-                        "enabled": false
+                        "label": "&&Geteiltes Terminal"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1130,6 +1257,11 @@
             "workbench.action.closeActiveEditor": {
                 "label": "Ctrl+W",
                 "userSettingsLabel": "ctrl+w"
+            },
+            "workbench.action.closeFolder": {
+                "label": "STRG+K F",
+                "isNative": false,
+                "userSettingsLabel": "ctrl+k f"
             },
             "workbench.action.closeWindow": {
                 "label": "Alt+F4",
@@ -1507,22 +1639,46 @@
             "editorPartMinWidth": 220,
             "titleBarHeight": 0,
             "activityBarWidth": 48,
-            "sideBarWidth": 256,
+            "sideBarWidth": 300,
             "statusBarHeight": 22,
             "windowBorder": false
         }
     },
     "windowsState": {
         "lastActiveWindow": {
-            "backupPath": "/home/dci-student/.config/Code/Backups/1663855096590",
+            "folder": "file:///home/dci-student/Schreibtisch/github-testen",
+            "backupPath": "/home/dci-student/.config/Code/Backups/7d4c8a6620c45774db699f54b2be7ce0",
             "uiState": {
                 "mode": 1,
-                "x": 448,
-                "y": 267,
+                "x": 1900,
+                "y": 201,
                 "width": 1024,
                 "height": 768
             }
         },
-        "openedWindows": []
+        "openedWindows": [
+            {
+                "folder": "file:///home/dci-student/Schreibtisch/new",
+                "backupPath": "/home/dci-student/.config/Code/Backups/9742141a5a9982f1ba5b82d25f693612",
+                "uiState": {
+                    "mode": 1,
+                    "x": 2417,
+                    "y": 64,
+                    "width": 1024,
+                    "height": 961
+                }
+            },
+            {
+                "folder": "file:///home/dci-student/Schreibtisch/github-testen",
+                "backupPath": "/home/dci-student/.config/Code/Backups/7d4c8a6620c45774db699f54b2be7ce0",
+                "uiState": {
+                    "mode": 1,
+                    "x": 1900,
+                    "y": 201,
+                    "width": 1024,
+                    "height": 768
+                }
+            }
+        ]
     }
 }

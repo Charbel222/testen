@@ -1,3 +1,2 @@
-2022/09/23-10:42:15.196 6e58 Reusing MANIFEST /home/dci-student/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/09/23-10:42:15.196 6e58 Recovering log #3
-2022/09/23-10:42:15.197 6e58 Reusing old log /home/dci-student/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000003.log 
+2022/09/28-16:32:29.865 7044 Creating DB /home/dci-student/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb since it was missing.
+2022/09/28-16:32:29.881 7044 Reusing MANIFEST /home/dci-student/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001

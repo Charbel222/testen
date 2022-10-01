@@ -1,3 +1,8 @@
-2022/09/24-18:50:03.160 3 Reusing MANIFEST /home/dci-student/.config/google-chrome/Default/Session Storage/MANIFEST-000001
-2022/09/24-18:50:03.161 3 Recovering log #8
-2022/09/24-18:50:03.162 3 Reusing old log /home/dci-student/.config/google-chrome/Default/Session Storage/000008.log 
+2022/10/01-03:37:34.165 3 Reusing MANIFEST /home/dci-student/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2022/10/01-03:37:34.167 3 Recovering log #45
+2022/10/01-03:37:34.167 3 Level-0 table #48: started
+2022/10/01-03:37:34.179 3 Level-0 table #48: 44513 bytes OK
+2022/10/01-03:37:34.180 3 Recovering log #48
+2022/10/01-03:37:34.180 3 Reusing old log /home/dci-student/.config/google-chrome/Default/Session Storage/000048.log 
+2022/10/01-03:37:34.185 3 Delete type=0 #45
+2022/10/01-03:37:34.185 3 Delete type=2 #49

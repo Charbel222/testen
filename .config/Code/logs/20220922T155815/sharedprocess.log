@@ -1,9 +1,0 @@
-[2022-09-22 15:58:18.258] [sharedprocess] [info] Starting worker process with pid 21409 (type: fileWatcher, window: 1).
-[2022-09-22 15:58:37.862] [sharedprocess] [info] Getting Manifest... ms-ceintl.vscode-language-pack-de
-[2022-09-22 15:58:38.411] [sharedprocess] [info] Installing extension: ms-ceintl.vscode-language-pack-de
-[2022-09-22 15:58:39.751] [sharedprocess] [info] Downloaded extension: ms-ceintl.vscode-language-pack-de /home/dci-student/.config/Code/CachedExtensionVSIXs/ms-ceintl.vscode-language-pack-de-1.71.9140925
-[2022-09-22 15:58:39.866] [sharedprocess] [info] Extracted extension to /home/dci-student/.vscode/extensions/.a1dc45db-a37f-4260-87ab-b4b0568ed774: ms-ceintl.vscode-language-pack-de
-[2022-09-22 15:58:39.878] [sharedprocess] [info] Renamed to /home/dci-student/.vscode/extensions/ms-ceintl.vscode-language-pack-de-1.71.9140925
-[2022-09-22 15:58:39.880] [sharedprocess] [info] Extracting completed. ms-ceintl.vscode-language-pack-de
-[2022-09-22 15:58:39.880] [sharedprocess] [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-de
-[2022-09-22 15:58:39.947] [sharedprocess] [info] Extension installed successfully: ms-ceintl.vscode-language-pack-de

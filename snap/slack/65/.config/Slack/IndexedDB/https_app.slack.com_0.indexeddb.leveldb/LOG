@@ -1,3 +1,3 @@
-2022/09/24-18:48:43.671 c0d Reusing MANIFEST /home/dci-student/snap/slack/65/.config/Slack/IndexedDB/https_app.slack.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/09/24-18:48:43.671 c0d Recovering log #3
-2022/09/24-18:48:43.672 c0d Reusing old log /home/dci-student/snap/slack/65/.config/Slack/IndexedDB/https_app.slack.com_0.indexeddb.leveldb/000003.log 
+2022/09/26-08:52:52.538 f26 Reusing MANIFEST /home/dci-student/snap/slack/65/.config/Slack/IndexedDB/https_app.slack.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/09/26-08:52:52.538 f26 Recovering log #3
+2022/09/26-08:52:52.539 f26 Reusing old log /home/dci-student/snap/slack/65/.config/Slack/IndexedDB/https_app.slack.com_0.indexeddb.leveldb/000003.log 
