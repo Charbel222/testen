@@ -2,22 +2,22 @@
 <application-state>
   <context id="">
     <application id="org.gnome.Evince.desktop" score="369" last-seen="1664359860"/>
-    <application id="google-chrome.desktop" score="10813" last-seen="1664631344"/>
+    <application id="google-chrome.desktop" score="11698" last-seen="1664647124"/>
     <application id="org.gnome.Cheese.desktop" score="190" last-seen="1664536023"/>
     <application id="software-properties-gtk.desktop" score="0" last-seen="1664212524"/>
-    <application id="gnome-control-center.desktop" score="34" last-seen="1664587851"/>
-    <application id="org.gnome.gedit.desktop" score="2" last-seen="1664588009"/>
-    <application id="org.gnome.eog.desktop" score="9" last-seen="1664462101"/>
+    <application id="gnome-control-center.desktop" score="55" last-seen="1664636728"/>
+    <application id="org.gnome.gedit.desktop" score="111" last-seen="1664636038"/>
+    <application id="org.gnome.eog.desktop" score="18" last-seen="1664639257"/>
     <application id="update-manager.desktop" score="18" last-seen="1664520255"/>
-    <application id="org.gnome.Nautilus.desktop" score="236" last-seen="1664631355"/>
-    <application id="zoom-client_zoom-client.desktop" score="8765" last-seen="1664548602"/>
-    <application id="snap-store_ubuntu-software.desktop" score="11" last-seen="1664468412"/>
-    <application id="apport-gtk.desktop" score="0" last-seen="1664465353"/>
-    <application id="org.gnome.Terminal.desktop" score="7367" last-seen="1664631364"/>
+    <application id="org.gnome.Nautilus.desktop" score="275" last-seen="1664647027"/>
+    <application id="zoom-client_zoom-client.desktop" score="8888" last-seen="1664636780"/>
+    <application id="snap-store_ubuntu-software.desktop" score="15" last-seen="1664635416"/>
+    <application id="apport-gtk.desktop" score="0" last-seen="1664641042"/>
+    <application id="org.gnome.Terminal.desktop" score="7695" last-seen="1664647316"/>
     <application id="rhythmbox.desktop" score="0" last-seen="1664109182"/>
-    <application id="slack_slack.desktop" score="1082" last-seen="1664548636"/>
+    <application id="slack_slack.desktop" score="1109" last-seen="1664636789"/>
     <application id="thunderbird.desktop" score="0" last-seen="1664292644"/>
-    <application id="code.desktop" score="4775" last-seen="1664631342"/>
+    <application id="code.desktop" score="5332" last-seen="1664647314"/>
     <application id="yelp.desktop" score="0" last-seen="1664469031"/>
     <application id="firefox.desktop" score="50" last-seen="1664180342"/>
   </context>

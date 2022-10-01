@@ -48,6 +48,61 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
+                                        "external": "file:///home/dci-student/Schreibtisch/%C3%BCbungs%20html%20css",
+                                        "path": "/home/dci-student/Schreibtisch/übungs html css",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Schreibtisch/übungs html css"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/dci-student/Schreibtisch/html",
+                                        "path": "/home/dci-student/Schreibtisch/html",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Schreibtisch/html"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/dci-student/Schreibtisch",
+                                        "path": "/home/dci-student/Schreibtisch",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Schreibtisch"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/dci-student/Schreibtisch/elias%20test/elias12",
+                                        "path": "/home/dci-student/Schreibtisch/elias test/elias12",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Schreibtisch/elias test/elias12"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/dci-student/Schreibtisch/bash",
+                                        "path": "/home/dci-student/Schreibtisch/bash",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Schreibtisch/bash"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
                                         "external": "file:///home/dci-student/Schreibtisch/github-testen",
                                         "path": "/home/dci-student/Schreibtisch/github-testen",
                                         "scheme": "file"
@@ -98,61 +153,6 @@
                                     },
                                     "enabled": true,
                                     "label": "~/Schreibtisch/testen"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/dci-student/Schreibtisch/clone",
-                                        "path": "/home/dci-student/Schreibtisch/clone",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Schreibtisch/clone"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/dci-student/Schreibtisch/selbst-%C3%BCben",
-                                        "path": "/home/dci-student/Schreibtisch/selbst-üben",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Schreibtisch/selbst-üben"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/dci-student/Schreibtisch/l%C3%B6sung-branch-out",
-                                        "path": "/home/dci-student/Schreibtisch/lösung-branch-out",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Schreibtisch/lösung-branch-out"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/dci-student/Schreibtisch/branch-out",
-                                        "path": "/home/dci-student/Schreibtisch/branch-out",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Schreibtisch/branch-out"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/dci-student/Schreibtisch",
-                                        "path": "/home/dci-student/Schreibtisch",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Schreibtisch"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -212,7 +212,8 @@
                     },
                     {
                         "id": "saveAll",
-                        "label": "A&&lles speichern"
+                        "label": "A&&lles speichern",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -707,7 +708,8 @@
                     },
                     {
                         "id": "editor.action.toggleWordWrap",
-                        "label": "&&Zeilenumbruch"
+                        "label": "&&Zeilenumbruch",
+                        "checked": true
                     },
                     {
                         "id": "editor.action.toggleMinimap",
@@ -749,7 +751,8 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Position der letzten Bearbeitung"
+                        "label": "&&Position der letzten Bearbeitung",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1646,37 +1649,37 @@
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/dci-student/Schreibtisch/github-testen",
-            "backupPath": "/home/dci-student/.config/Code/Backups/7d4c8a6620c45774db699f54b2be7ce0",
+            "folder": "file:///home/dci-student/Schreibtisch/html",
+            "backupPath": "/home/dci-student/.config/Code/Backups/94f2c07f35cbd06933d6b9c160b3ce82",
             "uiState": {
-                "mode": 1,
-                "x": 1900,
-                "y": 201,
+                "mode": 0,
+                "x": 2408,
+                "y": 102,
                 "width": 1024,
                 "height": 768
             }
         },
         "openedWindows": [
             {
-                "folder": "file:///home/dci-student/Schreibtisch/new",
-                "backupPath": "/home/dci-student/.config/Code/Backups/9742141a5a9982f1ba5b82d25f693612",
+                "folder": "file:///home/dci-student/Schreibtisch/html",
+                "backupPath": "/home/dci-student/.config/Code/Backups/94f2c07f35cbd06933d6b9c160b3ce82",
                 "uiState": {
-                    "mode": 1,
-                    "x": 2417,
-                    "y": 64,
+                    "mode": 0,
+                    "x": 2408,
+                    "y": 102,
                     "width": 1024,
-                    "height": 961
+                    "height": 768
                 }
             },
             {
-                "folder": "file:///home/dci-student/Schreibtisch/github-testen",
-                "backupPath": "/home/dci-student/.config/Code/Backups/7d4c8a6620c45774db699f54b2be7ce0",
+                "folder": "file:///home/dci-student/Schreibtisch/%C3%BCbungs%20html%20css",
+                "backupPath": "/home/dci-student/.config/Code/Backups/283e03c9bb586466119d8d4a202166c5",
                 "uiState": {
                     "mode": 1,
-                    "x": 1900,
-                    "y": 201,
-                    "width": 1024,
-                    "height": 768
+                    "x": 1920,
+                    "y": 37,
+                    "width": 1920,
+                    "height": 1043
                 }
             }
         ]

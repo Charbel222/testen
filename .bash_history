@@ -1023,3 +1023,230 @@ git push -u
 git status
 clear
 sudo gedit /usr/share/pulseaudio/alsa-mixer/paths/analog-output-speaker.conf
+code .
+clear
+git clone https://github.com/Charbel222/testen.git
+touch index.html
+git add .
+git branch
+git checkout master 
+git add .
+git add master
+git add index.html 
+git commit -m "h1"
+git push 
+git push index.html
+git push master
+git push master master
+git push --set-upstream master master
+git remote add origin https://github.com/Charbel222/testen.git
+git push 
+git push -u origin main
+git push --set-upstream master master
+git push -u
+git push master
+git push index.html
+git status
+git commit -am "he"
+git push origin mater
+git push 
+git push "index.htm" "master"
+git status
+git push -u origin master
+git push --all
+clear
+cd Schreibtisch/
+rm -r neu/
+rm -d neu/
+mkdir new
+cd new
+code .
+git branch -D readme
+git branch
+git branch -d readme
+git checkout -b master
+git branch -d readme
+git branch
+git rm
+cd ..
+git rm new/
+cd new
+cd testen/
+git rm .git
+cd .
+cd ..
+git rm testen/
+cd ..
+rm -r new
+git rm 
+cd ..
+git rm neu
+history
+rm -r neu/
+rm -r neu
+git --version
+git clone https://github.com/Charbel222/test.git
+git clone https://github.com/Charbel222/-bash.git
+clear
+cd Schreibtisch/
+mkdir 
+mkdir -bash
+mkdir bash 
+clear 
+git clone https://github.com/Charbel222/-bash.git
+touch index.html 
+style.css
+touch style.css
+rm index.html style.css 
+cd bash/
+touch index.html style.css
+git status
+clear
+git init 
+ll
+git status
+git add .
+git status
+code  .
+git branch
+cd .
+cd ..
+cd elias test
+touch index.html
+git add .
+git commit -m "hello"
+git add .
+git commit -m "heeelloo"
+git push
+git checkout -b master
+git branch
+git branch -d main
+touch css
+nano css
+rm css
+touch style.css
+nano style.css
+git add .
+git commit -m "new stylesheet"
+git push
+git push --set-upstream origin master
+code .
+git clone https://github.com/Charbel222/elias12.git
+cd elias12
+code .
+git pull
+clear
+git add index.html 
+git commit -m "Testen"
+git checkout -b "html"
+git branch
+git add index.html 
+git push -u origin master
+clear 
+rm -r "elias test"
+cd Schreibtisch/
+rm -r elias\ test/
+clear
+https://github.com/Charbel222/-bung-HTML-CSS.git
+git clone https://github.com/Charbel222/-bung-HTML-CSS.git
+code .
+git branch
+clear
+git add .
+git status
+git add .
+git add index.html 
+git commit -m "html"
+git push 
+git push --set-upstream origin master
+git branch
+git add .
+git add index.html
+git commit -m "neues"
+git push index.html
+git push
+code. 
+code .
+git clone https://github.com/Charbel222/-bung-HTML-CSS.git
+code .
+clear
+touch index.html
+git add .
+git add index.html 
+git commit -m "html"
+git push
+git branch
+git add .
+git checkout -b "html"
+git bramch
+git branch
+git add .
+git add index.html 
+git commit -m "new"
+celar
+clear
+git clone https://github.com/Charbel222/-bung-HTML-CSS.git
+get clone https://github.com/Charbel222/-bung-HTML-CSS.git
+clear
+git push
+git push --set-upstream origin html
+git push 
+git add .
+git add index.html 
+git commit -m "hello"
+git status
+git branch
+git branch -d master
+git branch
+git add .
+git add index.html 
+git commit -m"enter"
+git commit -m "enter"
+history
+cd ..
+rm -r push/
+rm -r bash
+rm -r html/
+rm -r bash/
+git branch 
+git branch -D html
+git branch -d html
+cd Schreibtisch/
+rm -r html/
+clear
+mkdir html
+git clone https://github.com/Charbel222/-bung-HTML-CSS.git
+code .
+cd html/
+code .
+history
+code .
+clear
+touch index.html
+git add .
+git commit -m"html"
+git commit -m "html"
+git commit _m "html"
+clear
+git commit -m "new"
+git clone https://github.com/Charbel222/-bung-HTML-CSS.git
+git chrckout -b "html"
+git checkout -b "html"
+git branch
+git add .
+git push
+git add index.html 
+git commit -m "hee"
+git push
+git push 
+touch readme.md 
+git add .
+git add readme.md 
+git commit -m "readme"
+git push 
+git branch
+git clone https://github.com/Charbel222/-bung-HTML-CSS.git
+git push 
+git remote add origin https://github.com/Charbel222/-bung-HTML-CSS.git
+git push origin master 
+git push
