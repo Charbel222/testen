@@ -1250,3 +1250,139 @@ git push
 git remote add origin https://github.com/Charbel222/-bung-HTML-CSS.git
 git push origin master 
 git push
+clear
+git clone https://github.com/Charbel222/public.git
+touch readme.md
+nano readme.md 
+git add.
+git add .
+git add readme.md 
+git commit -m "übungs"
+git push 
+git branch
+git checkout -b "master"
+git branch
+git branch -d html#
+git branch -d html
+git branch -D html
+git branch
+git add .
+git add readme.md 
+git commit -m "new"
+clear
+history
+git commit -am"neww"
+git push 
+git push --set-upstream origin master
+git push
+git push --set-upstream origin master
+git push 
+git remote add origin https://github.com/Charbel222/public.git
+git clone https://github.com/Charbel222/public.git
+cd public/
+git add .
+git commit -m"änderung"
+git commit -m "änderung"
+git add .
+git commit -m "änderung"
+git branch
+git checkout -b"main"
+git add .
+git commit -m "änderung"
+git push 
+git commit -m "gelöscht"
+git add .
+git commit -m "gelöscht"
+git push
+om/Charbel222/public.git'
+dci-student@dcistudent-ThinkPad-L15-Gen-1:~/Schreibtisch/html/public$ 
+
+om/Charbel222/public.git'
+git push -u origin main
+git push 
+git add .
+git commit -m "first"
+git branch
+git checkout -b "main"
+git branch
+cd ..
+git branch
+git commit -b "first"
+git commit -m "first"
+git init 
+git add .
+git commit -m "first"
+git add .
+git add readme.md 
+git status
+git add public/
+git add .
+git commit -m "first "
+git push 
+git push readme.md
+git push --set-upstream readme.md master
+git push -u orgin master
+cd ..
+rm -r html
+cd html/
+rm -r public/
+~
+code .
+touch readme.md
+git clone https://github.com/Charbel222/public.git
+git add .
+cd public/
+git add .
+git commit -m "first"
+cd ..
+git commit -m "first"
+git add . 
+clear
+git add
+git add .
+git checkout main
+git branch
+git checkout -b main
+git branch -d "master"
+git checkout main
+git add .
+git add readme.md 
+git commit -m "one"
+git push 
+git push --set-upstream origin main
+git clone https://github.com/Charbel222/public.git
+touch remdme.md
+git add .
+git add readme.md 
+git commit -m "two"
+git status
+git push readme.md
+clear
+git remote add origin https://github.com/Charbel222/-bung-HTML-CSS.git
+git clone https://github.com/Charbel222/test.git
+git add .
+cd test/
+git add .
+git commit -m"...."
+clear
+cd Schreibtisch/new/
+git clone https://github.com/Charbel222/public.git
+git add .
+git branch
+git status 
+clear
+code .
+git add .
+git commit -m "new list"
+git push 
+git push origin main 
+git push -u origin master 
+git push -U origin master 
+code .
+git pull 
+git push 
+CODE .
+code .
+cd 
+cd Schreibtisch/
+touch text.txt

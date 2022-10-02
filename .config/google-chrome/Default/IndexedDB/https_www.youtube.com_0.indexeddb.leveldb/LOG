@@ -1,3 +1,12 @@
-2022/10/01-19:24:58.861 84d8 Reusing MANIFEST /home/dci-student/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/10/01-19:24:58.862 84d8 Recovering log #100
-2022/10/01-19:24:58.868 84d8 Reusing old log /home/dci-student/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000100.log 
+2022/10/02-13:20:07.117 d76 Reusing MANIFEST /home/dci-student/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/10/02-13:20:07.117 d76 Recovering log #104
+2022/10/02-13:20:07.120 d76 Reusing old log /home/dci-student/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000104.log 
+2022/10/02-14:03:15.950 2b2e Level-0 table #109: started
+2022/10/02-14:03:15.968 2b2e Level-0 table #109: 1100333 bytes OK
+2022/10/02-14:03:15.975 2b2e Delete type=0 #104
+2022/10/02-14:04:48.767 27e2 Compacting 1@1 + 1@2 files
+2022/10/02-14:04:48.776 27e2 Generated table #110@1: 577 keys, 35314 bytes
+2022/10/02-14:04:48.776 27e2 Compacted 1@1 + 1@2 files => 35314 bytes
+2022/10/02-14:04:48.780 27e2 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/10/02-14:04:48.780 27e2 Delete type=2 #109
+2022/10/02-14:04:48.780 27e2 Delete type=2 #106

@@ -516,7 +516,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/dci-student/Downloads/git_workflow.png" added="2022-10-01T13:40:01Z" modified="2022-10-01T15:36:34Z" visited="1969-12-31T23:59:59Z">
+  <bookmark href="file:///home/dci-student/Downloads/git_workflow.png" added="2022-10-01T13:40:01Z" modified="2022-10-02T11:54:06Z" visited="1969-12-31T23:59:59Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/png"/>
@@ -524,8 +524,8 @@
           <bookmark:group>Graphics</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-10-01T15:36:33Z" count="2"/>
-          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-10-01T15:36:34Z" count="2"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-10-02T11:54:05Z" count="4"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-10-02T11:54:06Z" count="4"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -569,6 +569,55 @@
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
           <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2022-10-01T17:58:28Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dci-student/Schreibtisch/html/readme.md" added="2022-10-01T18:21:14Z" modified="2022-10-01T18:21:14Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-10-01T18:21:14Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dci-student/Schreibtisch/new" added="2022-10-01T18:26:18Z" modified="2022-10-02T11:22:17Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2022-10-02T11:22:17Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dci-student/Schreibtisch/text.txt" added="2022-10-02T11:57:32Z" modified="2022-10-02T11:57:40Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-10-02T11:57:40Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dci-student/Schreibtisch/new/readme2.md" added="2022-10-02T11:57:59Z" modified="2022-10-02T11:57:59Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-10-02T11:57:59Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>

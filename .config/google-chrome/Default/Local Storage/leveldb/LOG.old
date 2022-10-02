@@ -1,21 +1,3 @@
-2022/10/01-15:28:02.835 3 Reusing MANIFEST /home/dci-student/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
-2022/10/01-15:28:02.835 3 Recovering log #141
-2022/10/01-15:28:02.836 3 Reusing old log /home/dci-student/.config/google-chrome/Default/Local Storage/leveldb/000141.log 
-2022/10/01-15:52:51.536 3 Level-0 table #145: started
-2022/10/01-15:52:51.547 3 Level-0 table #145: 21939 bytes OK
-2022/10/01-15:52:51.551 3 Delete type=0 #141
-2022/10/01-16:49:12.391 3 Level-0 table #147: started
-2022/10/01-16:49:12.404 3 Level-0 table #147: 16932 bytes OK
-2022/10/01-16:49:12.412 3 Delete type=0 #144
-2022/10/01-16:49:12.413 3 Compacting 4@0 + 1@1 files
-2022/10/01-16:49:12.465 3 Generated table #148@0: 1411 keys, 1507119 bytes
-2022/10/01-16:49:12.466 3 Compacted 4@0 + 1@1 files => 1507119 bytes
-2022/10/01-16:49:12.469 3 compacted to: files[ 0 1 1 0 0 0 0 ]
-2022/10/01-16:49:12.470 3 Delete type=2 #140
-2022/10/01-16:49:12.470 3 Delete type=2 #147
-2022/10/01-16:49:12.470 3 Delete type=2 #138
-2022/10/01-16:49:12.470 3 Delete type=2 #142
-2022/10/01-16:49:12.471 3 Delete type=2 #145
-2022/10/01-17:42:17.777 1e Level-0 table #150: started
-2022/10/01-17:42:17.790 1e Level-0 table #150: 16416 bytes OK
-2022/10/01-17:42:17.797 1e Delete type=0 #146
+2022/10/01-21:36:02.508 3 Reusing MANIFEST /home/dci-student/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2022/10/01-21:36:02.508 3 Recovering log #159
+2022/10/01-21:36:02.509 3 Reusing old log /home/dci-student/.config/google-chrome/Default/Local Storage/leveldb/000159.log 
