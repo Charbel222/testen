@@ -1,0 +1,8 @@
+fatal: Der aktuelle Branch html hat keinen Upstream-Branch.
+Um den aktuellen Branch zu versenden und den Remote-Branch
+als Upstream-Branch zu setzen, benutzen Sie
+
+    git push --set-upstream origin html
+
+Damit das automatisch für Branches ohne Upstream-Tracking passiert,
+siehe 'push.autoSetupRemote' in 'git help config'.
